@@ -3,7 +3,7 @@
 import os , time 
 from time import sleep
 os.system("pkg install git")
-#os.system(''pkg install python'')
+os.system('pkg install espeak')
 ###__COLOURS__###
 
 GREEN ='\x1b[38;5;46m'
