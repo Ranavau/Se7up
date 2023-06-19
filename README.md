@@ -13,3 +13,4 @@ git clone https://github.com/Ranavau/Se7up
 cd Se7up
 
 python setup.py
+
